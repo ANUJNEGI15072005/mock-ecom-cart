@@ -96,6 +96,11 @@ npm run dev
 
 ---
 
+## 🎥 Demo Video
+Watch the full demo here: [Loom Video Link](https://www.loom.com/share/6a3cacf1ae474fffa3024f9b22fde35e)
+
+---
+
 ## 🧠 Learning Highlights
 
 * Hands-on experience with **RESTful APIs**, **React state management**, and **MongoDB schema design**.
